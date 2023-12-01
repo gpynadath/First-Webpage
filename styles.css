@@ -1,0 +1,26 @@
+*{
+    background-color: bisque;
+}
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+h1,h2,h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-size: 40px;
+}
+ol{
+    color: green;
+}
+ul{
+    color: blue;
+}
+body{
+    margin: 0 0 20px 20px;
+    padding: 15px 5px 10px 20px;
+    text-align: center;
+}
